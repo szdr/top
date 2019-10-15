@@ -44,8 +44,8 @@ body {
     color: rgb(152, 164, 166);
 }
 
-tbody { display: block; }
-tbody {
+tbody#publication { display: block; }
+tbody#publication {
     font-size: 12px;
     height: 200px;
     overflow-y: auto;
