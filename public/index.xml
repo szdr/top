@@ -1,0 +1,181 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Shogo Suzuki</title>
+    <link>https://szdr.github.io/top/</link>
+    <description>Recent content on Shogo Suzuki</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Mon, 20 Mar 2017 00:00:00 +0000</lastBuildDate><atom:link href="https://szdr.github.io/top/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Photoswipe Gallery Sample</title>
+      <link>https://szdr.github.io/top/post/2017-03-20-photoswipe-gallery-sample/</link>
+      <pubDate>Mon, 20 Mar 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://szdr.github.io/top/post/2017-03-20-photoswipe-gallery-sample/</guid>
+      <description>&lt;p&gt;Beautiful Hugo adds a few custom shortcodes created by &lt;a href=&#34;https://www.liwen.id.au/heg/&#34;&gt;Li-Wen Yip&lt;/a&gt; and &lt;a href=&#34;https://github.com/GjjvdBurg/HugoPhotoSwipe&#34;&gt;Gert-Jan van den Berg&lt;/a&gt; for making galleries with &lt;a href=&#34;http://photoswipe.com&#34;&gt;PhotoSwipe&lt;/a&gt; .&lt;/p&gt;
+
+
+
+&lt;div class=&#34;gallery caption-position-bottom caption-effect-fade hover-effect-zoom hover-transition&#34; itemscope itemtype=&#34;http://schema.org/ImageGallery&#34;&gt;
+	  
+  
+&lt;link rel=&#34;stylesheet&#34; href=&#34;https://szdr.github.io/top/css/hugo-easy-gallery.css&#34; /&gt;
+&lt;div class=&#34;box&#34; &gt;
+  &lt;figure  itemprop=&#34;associatedMedia&#34; itemscope itemtype=&#34;http://schema.org/ImageObject&#34;&gt;
+    &lt;div class=&#34;img&#34; style=&#34;background-image: url(&#39;https://szdr.github.io/top/img/hexagon-thumb.jpg&#39;);&#34;&gt;
+      &lt;img itemprop=&#34;thumbnail&#34; src=&#34;https://szdr.github.io/top/img/hexagon-thumb.jpg&#34; alt=&#34;/img/hexagon-thumb.jpg&#34;/&gt;
+    &lt;/div&gt;
+    &lt;a href=&#34;https://szdr.github.io/top/img/hexagon.jpg&#34; itemprop=&#34;contentUrl&#34;&gt;&lt;/a&gt;
+  &lt;/figure&gt;
+&lt;/div&gt;
+
+  
+
+&lt;div class=&#34;box&#34; &gt;
+  &lt;figure  itemprop=&#34;associatedMedia&#34; itemscope itemtype=&#34;http://schema.org/ImageObject&#34;&gt;
+    &lt;div class=&#34;img&#34; style=&#34;background-image: url(&#39;https://szdr.github.io/top/img/sphere-thumb.jpg&#39;);&#34;&gt;
+      &lt;img itemprop=&#34;thumbnail&#34; src=&#34;https://szdr.github.io/top/img/sphere-thumb.jpg&#34; alt=&#34;Sphere&#34;/&gt;
+    &lt;/div&gt;
+    &lt;a href=&#34;https://szdr.github.io/top/img/sphere.jpg&#34; itemprop=&#34;contentUrl&#34;&gt;&lt;/a&gt;
+      &lt;figcaption&gt;
+          &lt;p&gt;Sphere&lt;/p&gt;
+      &lt;/figcaption&gt;
+  &lt;/figure&gt;
+&lt;/div&gt;
+
+  
+
+&lt;div class=&#34;box&#34; &gt;
+  &lt;figure  itemprop=&#34;associatedMedia&#34; itemscope itemtype=&#34;http://schema.org/ImageObject&#34;&gt;
+    &lt;div class=&#34;img&#34; style=&#34;background-image: url(&#39;https://szdr.github.io/top/img/triangle-thumb.jpg&#39;);&#34;&gt;
+      &lt;img itemprop=&#34;thumbnail&#34; src=&#34;https://szdr.github.io/top/img/triangle-thumb.jpg&#34; alt=&#34;This is a long comment about a triangle&#34;/&gt;
+    &lt;/div&gt;
+    &lt;a href=&#34;https://szdr.github.io/top/img/triangle.jpg&#34; itemprop=&#34;contentUrl&#34;&gt;&lt;/a&gt;
+      &lt;figcaption&gt;
+          &lt;p&gt;Triangle&lt;/p&gt;
+      &lt;/figcaption&gt;
+  &lt;/figure&gt;
+&lt;/div&gt;
+
+
+&lt;/div&gt;</description>
+    </item>
+    
+    <item>
+      <title>Big Image Sample</title>
+      <link>https://szdr.github.io/top/post/2017-03-07-bigimg-sample/</link>
+      <pubDate>Tue, 07 Mar 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://szdr.github.io/top/post/2017-03-07-bigimg-sample/</guid>
+      <description>&lt;p&gt;The image banners at the top of the page are refered to as &amp;ldquo;bigimg&amp;rdquo; in this theme. They are optional, and one more more can be specified. If more than one is specified, the images rotate every 10 seconds. In the front matter, bigimgs are specified using an array of hashes.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Math Sample</title>
+      <link>https://szdr.github.io/top/post/2017-03-05-math-sample/</link>
+      <pubDate>Sun, 05 Mar 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://szdr.github.io/top/post/2017-03-05-math-sample/</guid>
+      <description>&lt;p&gt;KaTeX can be used to generate complex math formulas server-side.&lt;/p&gt;
+&lt;p&gt;$$
+\phi = \frac{(1+\sqrt{5})}{2} = 1.6180339887\cdots
+$$&lt;/p&gt;
+&lt;p&gt;Additional details can be found on &lt;a href=&#34;https://github.com/Khan/KaTeX&#34;&gt;GitHub&lt;/a&gt; or on the &lt;a href=&#34;http://tiddlywiki.com/plugins/tiddlywiki/katex/&#34;&gt;Wiki&lt;/a&gt;.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Code Sample</title>
+      <link>https://szdr.github.io/top/post/2016-03-08-code-sample/</link>
+      <pubDate>Tue, 08 Mar 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://szdr.github.io/top/post/2016-03-08-code-sample/</guid>
+      <description>&lt;p&gt;The following are two code samples using syntax highlighting.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Flake it till you make it</title>
+      <link>https://szdr.github.io/top/post/2015-02-26-flake-it-till-you-make-it/</link>
+      <pubDate>Thu, 26 Feb 2015 00:00:00 +0000</pubDate>
+      
+      <guid>https://szdr.github.io/top/post/2015-02-26-flake-it-till-you-make-it/</guid>
+      <description>Under what circumstances should we step off a path? When is it essential that we finish what we start? If I bought a bag of peanuts and had an allergic reaction, no one would fault me if I threw it out. If I ended a relationship with a woman who hit me, no one would say that I had a commitment problem. But if I walk away from a seemingly secure route because my soul has other ideas, I am a flake?
+The truth is that no one else can definitively know the path we are here to walk. It’s tempting to listen—many of us long for the omnipotent other—but unless they are genuine psychic intuitives, they can’t know. All others can know is their own truth, and if they’ve actually done the work to excavate it, they will have the good sense to know that they cannot genuinely know anyone else’s. Only soul knows the path it is here to walk. Since you are the only one living in your temple, only you can know its scriptures and interpretive structure.
+At the heart of the struggle are two very different ideas of success—survival-driven and soul-driven. For survivalists, success is security, pragmatism, power over others. Success is the absence of material suffering, the nourishing of the soul be damned. It is an odd and ironic thing that most of the material power in our world often resides in the hands of younger souls. Still working in the egoic and material realms, they love the sensations of power and focus most of their energy on accumulation. Older souls tend not to be as materially driven. They have already played the worldly game in previous lives and they search for more subtle shades of meaning in this one—authentication rather than accumulation. They are often ignored by the culture at large, although they really are the truest warriors.
+A soulful notion of success rests on the actualization of our innate image. Success is simply the completion of a soul step, however unsightly it may be. We have finished what we started when the lesson is learned. What a fear-based culture calls a wonderful opportunity may be fruitless and misguided for the soul. Staying in a passionless relationship may satisfy our need for comfort, but it may stifle the soul. Becoming a famous lawyer is only worthwhile if the soul demands it. It is an essential failure if you are called to be a monastic this time around. If you need to explore and abandon ten careers in order to stretch your soul toward its innate image, then so be it. Flake it till you make it.</description>
+    </item>
+    
+    <item>
+      <title>Test markdown</title>
+      <link>https://szdr.github.io/top/post/2015-02-20-test-markdown/</link>
+      <pubDate>Fri, 20 Feb 2015 00:00:00 +0000</pubDate>
+      
+      <guid>https://szdr.github.io/top/post/2015-02-20-test-markdown/</guid>
+      <description>You can write regular markdown here and Hugo will automatically convert it to a nice webpage. I strongly encourage you to take 5 minutes to learn how to write in markdown - it&amp;rsquo;ll teach you how to transform regular text into bold/italics/headings/tables/etc.
+Here is some bold text
+Here is a secondary heading Here&amp;rsquo;s a useless table:
+   Number Next number Previous number     Five Six Four   Ten Eleven Nine   Seven Eight Six   Two Three One    How about a yummy crepe?
+Here&amp;rsquo;s a code chunk with syntax highlighting:
+var foo = function(x) { return(x + 5); } foo(3) </description>
+    </item>
+    
+    <item>
+      <title>To be</title>
+      <link>https://szdr.github.io/top/post/2015-02-13-hamlet-monologue/</link>
+      <pubDate>Fri, 13 Feb 2015 00:00:00 +0000</pubDate>
+      
+      <guid>https://szdr.github.io/top/post/2015-02-13-hamlet-monologue/</guid>
+      <description>To be, or not to be&amp;ndash;that is the question: Whether &amp;lsquo;tis nobler in the mind to suffer The slings and arrows of outrageous fortune Or to take arms against a sea of troubles And by opposing end them. To die, to sleep&amp;ndash; No more&amp;ndash;and by a sleep to say we end The heartache, and the thousand natural shocks That flesh is heir to. &amp;lsquo;Tis a consummation Devoutly to be wished. To die, to sleep&amp;ndash; To sleep&amp;ndash;perchance to dream: ay, there&amp;rsquo;s the rub, For in that sleep of death what dreams may come When we have shuffled off this mortal coil, Must give us pause. There&amp;rsquo;s the respect That makes calamity of so long life. For who would bear the whips and scorns of time, Th&amp;rsquo; oppressor&amp;rsquo;s wrong, the proud man&amp;rsquo;s contumely The pangs of despised love, the law&amp;rsquo;s delay, The insolence of office, and the spurns That patient merit of th&amp;rsquo; unworthy takes, When he himself might his quietus make With a bare bodkin? Who would fardels bear, To grunt and sweat under a weary life, But that the dread of something after death, The undiscovered country, from whose bourn No traveller returns, puzzles the will, And makes us rather bear those ills we have Than fly to others that we know not of? Thus conscience does make cowards of us all, And thus the native hue of resolution Is sicklied o&amp;rsquo;er with the pale cast of thought, And enterprise of great pitch and moment With this regard their currents turn awry And lose the name of action. &amp;ndash; Soft you now, The fair Ophelia! &amp;ndash; Nymph, in thy orisons Be all my sins remembered.</description>
+    </item>
+    
+    <item>
+      <title>Dear diary</title>
+      <link>https://szdr.github.io/top/post/2015-01-27-dear-diary/</link>
+      <pubDate>Tue, 27 Jan 2015 00:00:00 +0000</pubDate>
+      
+      <guid>https://szdr.github.io/top/post/2015-01-27-dear-diary/</guid>
+      <description>What is it with that Mary girl? Dragging me to school every day. As if I had a choice. What you don&amp;rsquo;t hear in those nursery rhymes is that she starves me if I don&amp;rsquo;t go to school with her; it&amp;rsquo;s the only way I can stay alive! I&amp;rsquo;m thinking about being adopted by Little Bo Peep, sure I may get lost, but anything is better than being with Mary and those little brats at school (shudder, shudder).</description>
+    </item>
+    
+    <item>
+      <title>Soccer</title>
+      <link>https://szdr.github.io/top/post/2015-01-19-soccer/</link>
+      <pubDate>Mon, 19 Jan 2015 00:00:00 +0000</pubDate>
+      
+      <guid>https://szdr.github.io/top/post/2015-01-19-soccer/</guid>
+      <description>From Wikipedia:
+Association football, more commonly known as football or soccer,[2] is a sport played between two teams of eleven players with a spherical ball. It is played by 250 million players in over 200 countries, making it the world&amp;rsquo;s most popular sport.[3][4][5][6] The game is played on a rectangular field with a goal at each end. The object of the game is to score by getting the ball into the opposing goal.
+The goalkeepers are the only players allowed to touch the ball with their hands or arms while it is in play and then only in their penalty area. Outfield players mostly use their feet to strike or pass the ball, but may use their head or torso to strike the ball instead. The team that scores the most goals by the end of the match wins. If the score is level at the end of the game, either a draw is declared or the game goes into extra time and/or a penalty shootout depending on the format of the competition. The Laws of the Game were originally codified in England by The Football Association in 1863. Association football is governed internationally by the International Federation of Association Football (FIFA; French: Fédération Internationale de Football Association) which organises a World Cup every four years.[7]</description>
+    </item>
+    
+    <item>
+      <title>Pirates arrrr</title>
+      <link>https://szdr.github.io/top/post/2015-01-15-pirates/</link>
+      <pubDate>Thu, 15 Jan 2015 00:00:00 +0000</pubDate>
+      
+      <guid>https://szdr.github.io/top/post/2015-01-15-pirates/</guid>
+      <description>Piracy is typically an act of robbery or criminal violence at sea. The term can include acts committed on land, in the air, or in other major bodies of water or on a shore. It does not normally include crimes committed against persons traveling on the same vessel as the perpetrator (e.g. one passenger stealing from others on the same vessel). The term has been used throughout history to refer to raids across land borders by non-state agents.</description>
+    </item>
+    
+    <item>
+      <title>First post!</title>
+      <link>https://szdr.github.io/top/post/2015-01-04-first-post/</link>
+      <pubDate>Mon, 05 Jan 2015 00:00:00 +0000</pubDate>
+      
+      <guid>https://szdr.github.io/top/post/2015-01-04-first-post/</guid>
+      <description>This is my first post, how exciting!</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://szdr.github.io/top/page/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://szdr.github.io/top/page/about/</guid>
+      <description>Hello! I&amp;rsquo;m Shogo Suzuki.
+Currently, I&amp;rsquo;m working in Japan as a Search Relevance Engineer/Manager, with a particular focus on enhancing the search quality of E-commerce platforms. I have a keen interest in Machine Learning and Information Retrieval. I also write a blog about these topics (ja).
+For any inquiries or further discussions, feel free to reach out to me on Twitter !
+Experience  LY Corporation (Formarly: Yahoo Japan Corporation)  Search Relevance Team Manager, 2022/4 - present Search Relevance Engineer, 2017/4 - 2022/3   FUJITSU LABORATORIES, Intern, 2015/8  Education  Department of Computer Science, Graduate School of Information Science and Engineering, Tokyo Institute of Technology, 2015 - 2017 Department of Computer Science, School of Engineering, Tokyo Institute of Technology, 2011 - 2015  Skills  Programming Languages: Python, Scala Search Engines: Experience with Solr, Elasticsearch, and Vespa. Specialties: Skilled in Machine Learning, particulary in Learning to Rank, and search improvement.  Publications Books  ｢機械学習による検索ランキング改善ガイド｣, オライリー･ジャパン, 2023/8/23 ｢検索システム ― 実務者のための開発改善ガイドブック｣, ラムダノート, 2022/5/2  Papers  Shogo D. Suzuki, Yohei Iseki, Hiroaki Shiino, Hongwei Zhang, Aya Iwamoto, Fumihiko Takahashi: &amp;ldquo;Convolutional Neural Network and Bidirectional LSTM Based Taxonomy Classification Using External Dataset at SIGIR eCom Data Challenge&amp;rdquo;, SIGIR eCom&#39;18, 2018. (refereed paper, workshop) Shogo D. Suzuki, Masahito Ohue, Yutaka Akiyama: &amp;ldquo;PKRank: A novel learning-to-rank method for ligand-based virtual screening using pairwise kernel and RankSVM&amp;rdquo;, Artificial Life and Robotics, 2017. (refereed paper) Keisuke Yanagisawa, Shunta Komine, Shogo D. Suzuki, Masahito Ohue, Takashi Ishida, Yutaka Akiyama: &amp;ldquo;Spresso: An ultrafast compound pre-screening method based on compound decomposition&amp;rdquo;, Bioinformatics, 2017. (refereed paper)  Talks  ｢ヤフーにおける機械学習検索ランキングの取り組み｣, Search Engineering Tech Talk 2019 Autumn, 2019/12/4  </description>
+    </item>
+    
+  </channel>
+</rss>

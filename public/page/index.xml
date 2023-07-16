@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Pages on Shogo Suzuki</title>
+    <link>https://szdr.github.io/top/page/</link>
+    <description>Recent content in Pages on Shogo Suzuki</description>
+    <generator>Hugo -- gohugo.io</generator><atom:link href="https://szdr.github.io/top/page/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title></title>
+      <link>https://szdr.github.io/top/page/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://szdr.github.io/top/page/about/</guid>
+      <description>Hello! I&amp;rsquo;m Shogo Suzuki.
+Currently, I&amp;rsquo;m working in Japan as a Search Relevance Engineer/Manager, with a particular focus on enhancing the search quality of E-commerce platforms. I have a keen interest in Machine Learning and Information Retrieval. I also write a blog about these topics (ja).
+For any inquiries or further discussions, feel free to reach out to me on Twitter !
+Experience  LY Corporation (Formarly: Yahoo Japan Corporation)  Search Relevance Team Manager, 2022/4 - present Search Relevance Engineer, 2017/4 - 2022/3   FUJITSU LABORATORIES, Intern, 2015/8  Education  Department of Computer Science, Graduate School of Information Science and Engineering, Tokyo Institute of Technology, 2015 - 2017 Department of Computer Science, School of Engineering, Tokyo Institute of Technology, 2011 - 2015  Skills  Programming Languages: Python, Scala Search Engines: Experience with Solr, Elasticsearch, and Vespa. Specialties: Skilled in Machine Learning, particulary in Learning to Rank, and search improvement.  Publications Books  ｢機械学習による検索ランキング改善ガイド｣, オライリー･ジャパン, 2023/8/23 ｢検索システム ― 実務者のための開発改善ガイドブック｣, ラムダノート, 2022/5/2  Papers  Shogo D. Suzuki, Yohei Iseki, Hiroaki Shiino, Hongwei Zhang, Aya Iwamoto, Fumihiko Takahashi: &amp;ldquo;Convolutional Neural Network and Bidirectional LSTM Based Taxonomy Classification Using External Dataset at SIGIR eCom Data Challenge&amp;rdquo;, SIGIR eCom&#39;18, 2018. (refereed paper, workshop) Shogo D. Suzuki, Masahito Ohue, Yutaka Akiyama: &amp;ldquo;PKRank: A novel learning-to-rank method for ligand-based virtual screening using pairwise kernel and RankSVM&amp;rdquo;, Artificial Life and Robotics, 2017. (refereed paper) Keisuke Yanagisawa, Shunta Komine, Shogo D. Suzuki, Masahito Ohue, Takashi Ishida, Yutaka Akiyama: &amp;ldquo;Spresso: An ultrafast compound pre-screening method based on compound decomposition&amp;rdquo;, Bioinformatics, 2017. (refereed paper)  Talks  ｢ヤフーにおける機械学習検索ランキングの取り組み｣, Search Engineering Tech Talk 2019 Autumn, 2019/12/4  </description>
+    </item>
+    
+  </channel>
+</rss>
