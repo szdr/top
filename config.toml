@@ -47,8 +47,8 @@ publishDir = "docs"
 
 [Author]
   # Set only your "username" for default hosts and full URLs otherwise (e.g., "https://MyGitLab.org/username")
-  name = "Shogo Suzuki"
-  website = "szdr.github.io/top"
+  # name = "Shogo Suzuki"
+  # website = "szdr.github.io/top"
   github = "szdr"
   twitter = "sz_dr"
   linkedin = "shogo-suzuki-939228115"
